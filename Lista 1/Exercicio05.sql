@@ -1,0 +1,1 @@
+SELECT * FROM produto WHERE produto.qtd_estoque <= 20
